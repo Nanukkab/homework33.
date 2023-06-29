@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: hsl(213, 19%, 18%);
+    border: 1px solid hsl(213, 19%, 18%);
+    border-radius: 20px;
+    margin-top: 170px;
+    margin-left: 530px;
+}
+
+.line {
+    display: flex;
+    margin: 20px;
+    color: grey;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: hsl(215, 19%, 23%);
+    margin: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    color: hsl(217, 12%, 63%);
+
+}
+
+.button {
+    width: 330px;
+    height: 40px;
+    background-color: hsl(25, 97%, 53%);
+    border: 1px solid hsl(25, 97%, 53%);
+    border-radius: 20px;
+    color: white;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.circle1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: hsl(215, 19%, 23%);
+    margin-left: 30px;
+    margin-top: 20px;
+}
